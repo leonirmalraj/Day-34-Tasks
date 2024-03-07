@@ -12,4 +12,3 @@ This is the Task for Day_2 NodeJS
 - **List Customers:** Get insights into all customers who have booked rooms, including their booking history.
 - **Delete Room:** Remove unnecessary rooms from the system with ease.
 
-🧾POSTMAN LINK : 
