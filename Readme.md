@@ -1,4 +1,4 @@
-# Hall Booking API 🏫📅
+# Hall Booking API 
 
 Welcome to the Hall Booking API! 
 
