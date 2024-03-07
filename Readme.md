@@ -2,7 +2,6 @@
 
 Welcome to the Hall Booking API! 
 
-This is the Task for Day_2 NodeJS
 
 ## Features ✨
 
