@@ -5,7 +5,7 @@ const router = express.Router()
 
 router.get('/', roomController.BookedRooms)
 router.get('/customer', roomController.allCustomer)
-router.post('/',roomController.CreateRoom)
+router.post('/', roomController.CreateRoom)
 router.delete('/:id', roomController.DeleteRoom)
 router.put('/:id', roomController.Booking)
 

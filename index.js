@@ -1,5 +1,5 @@
 import express from 'express'
-import AppRoutes from './routes/index.js'
+import AppRoutes from './src/routes/index.js'
 
 const app = express()
 const PORT = process.env.PORT || 8000
